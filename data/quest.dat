@@ -1,0 +1,26 @@
+quest{
+  solarus_version = "2.0",
+  write_dir = "42156b69-91e7-464a-8b3c-603e6416a07c",
+  title = "python2lua",
+  short_description = "",
+  long_description = [[
+]],
+  author = "",
+  quest_version = "",
+  initial_release_date = "",
+  release_date = "",
+  website = "",
+  normal_quest_size = "320x240",
+  min_quest_size = "320x240",
+  max_quest_size = "320x240",
+  license = "",
+  languages = {},
+  min_players = 1,
+  max_players = 1,
+  genres = {},
+  age = "all",
+  controls = 0,
+  dynamic_timestep = false,
+  subpixel_camera = false,
+}
+
